@@ -1,36 +1,36 @@
 [
     {
-      "image":'hammer-ekte.jpg',
-      "title":'Hammer',
-      "text":'Pent brukt hammer, kjøpte den ifor sommer',
-      "author":'Ola',
+      "image": 'hammer-ekte.jpg',
+      "title": 'Hammer',
+      "text": 'Pent brukt hammer, kjøpte den ifor sommer',
+      "author": 'Ola',
       "email": "Ola@gmail.com",
       "phoneNumber": "90908080",
       "id": "idhammer" 
     },
     {
-      "image":'sirkel_sag.jpg',
-      "title":'Sirkel Sag',
-      "text":'Kan hentes på Ørsta rådhus neste uke',
-      "author":'Ola',
+      "image": 'sirkel_sag.jpg',
+      "title": 'Sirkel Sag',
+      "text": 'Kan hentes på Ørsta rådhus neste uke',
+      "author": 'Ola',
       "email": "Ola@gmail.com",
       "phoneNumber": "90908080",
       "id": "idsirkelsag"
     },
     {
-      "image":'tappjern.jpeg',
-      "title":'Tappjern',
-      "text":'Denne er perfekt for deg som foretrekker tappjern over sag',
-      "author":'Ola',
+      "image": 'tappjern.jpeg',
+      "title": 'Tappjern',
+      "text": 'Denne er perfekt for deg som foretrekker tappjern over sag',
+      "author": 'Ola',
       "email": "Ola@gmail.com",
       "phoneNumber": "90908080",
       "id": "idtappjern"
     },
     {
-      "image":'vinkel_sliper.jpg',
-      "title":'Vinkelsliper',
-      "text":'Perfekt å slipe vinkler til',
-      "author":'Ola',
+      "image": 'vinkel_sliper.jpg',
+      "title": 'Vinkelsliper',
+      "text": 'Perfekt å slipe vinkler til',
+      "author": 'Ola',
       "email": "Ola@gmail.com",
       "phoneNumber": "90908080",
       "id": "idvinkelsliper"
