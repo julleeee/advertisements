@@ -1,6 +1,5 @@
 [
     {
-      "image": "hammer-ekte.jpg",
       "title": "Hammer",
       "text": "Pent brukt hammer, kjøpte den ifor sommer",
       "author": "Ola",
@@ -9,7 +8,6 @@
       "id": "idhammer" 
     },
     {
-      "image": "sirkel_sag.jpg",
       "title": "Sirkel Sag",
       "text": "Kan hentes på Ørsta rådhus neste uke",
       "author": "Ola",
@@ -18,7 +16,6 @@
       "id": "idsirkelsag"
     },
     {
-      "image": "tappjern.jpeg",
       "title": "Tappjern",
       "text": "Denne er perfekt for deg som foretrekker tappjern over sag",
       "author": "Ola",
@@ -27,7 +24,6 @@
       "id": "idtappjern"
     },
     {
-      "image": "vinkel_sliper.jpg",
       "title": "Vinkelsliper",
       "text": "Perfekt å slipe vinkler til",
       "author": "Ola",
