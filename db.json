@@ -1,4 +1,5 @@
-[
+{
+    "cards": [
     {
       "title": "Hammer",
       "text": "Pent brukt hammer, kjøpte den ifor sommer",
@@ -32,3 +33,4 @@
       "id": "idvinkelsliper"
     }
 ]
+}
