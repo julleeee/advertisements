@@ -19,6 +19,7 @@
       "id": "idsirkelsag"
     },
     {
+      "title": "Tappjern",
       "image": "tappjern.jpeg",
       "text": "Denne er perfekt for deg som foretrekker tappjern over sag",
       "author": "Ola",
@@ -27,6 +28,7 @@
       "id": "idtappjern"
     },
     {
+      "title": "Vinkelsliper",
       "image": "vinkel_sliper.jpg",
       "text": "Perfekt å slipe vinkler til",
       "author": "Ola",
